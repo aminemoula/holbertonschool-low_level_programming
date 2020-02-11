@@ -1,7 +1,7 @@
 #include "holberton.h"
 /**
  * print_last_digit - check the code for Holberton School students.
- * @n : type
+ * @n : type of number
  * Return: value of the last digit.
  */
 int print_last_digit(int n)
