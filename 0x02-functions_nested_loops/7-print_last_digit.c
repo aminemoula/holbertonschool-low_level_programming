@@ -3,17 +3,16 @@
 /**
  * print_last_digit - check the code for Holberton School students.
  * @n : type
- * Return: Always 0.
+ * Return: value of the last digit.
  */
 int print_last_digit(int n);
-int l;
 {
 if (n >= 0)
 {
-l = n % 10;
+_putchar (n % 10 + '0')
+return(n % 10)
 }
 else
-l = (n % 10) * -1;
-_putchar(l + '0');
-return (l);
+_putchar((n % 10) * -1 + '0');
+return ((n % 10) * -1);
 }
