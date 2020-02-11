@@ -1,9 +1,9 @@
 #include "holberton.h"
 /**
-* jack_bauer - every minute of the day.
-*
-* Return: Always 0.
-*/
+ * jack_bauer - every minute of the day.
+ *
+ * Return: always 0.
+ */
 void jack_bauer(void)
 {
 int a, b;
