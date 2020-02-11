@@ -1,3 +1,4 @@
+#include "holberton.h"
 #include <stdio.h>
 /**
  * print_below_98 - check numbers
