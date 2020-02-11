@@ -5,11 +5,15 @@
  *  Return: Always 0 (success)
  */
 
-int print_alphabet(void)
+void print_alphabet(void)
 {
-	char c;
+	char i = 'a';
 
-	for (i = 'a' ; i <= 'z' ; i++)
+	while (i <= 'z')
+	{
 		_putchar(i);
+		i++;
+	}
 	_putchar('\n');
+
 }
