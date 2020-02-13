@@ -4,7 +4,7 @@
 *
 * Return: Always 0.
 */
-void print_most_numbers(void);
+void print_most_numbers(void)
 {
 for (i = 0, i <= 9, i++)
 if (i != 2 && i != 4)
