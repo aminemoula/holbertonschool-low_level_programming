@@ -10,15 +10,16 @@ int a;
 for (a = 1; a <= 100; a++)
 {
 if ((a % 3 == 0) && (a % 5 == 0))
-_printf("FizzBuzz");
+printf("FizzBuzz");
 else if (a % 3 == 0)
-_printf("Fizz");
+printf("Fizz");
 else if (a % 5 == 0)
-_printf("Buzz");
+printf("Buzz");
 else
-_printf("%d", a);
+printf("%d", a);
 if (a < 100)
-_printf(" ");
+printf(" ");
 }
-_printf("\n");
+printf("\n");
 return (0);
+}
