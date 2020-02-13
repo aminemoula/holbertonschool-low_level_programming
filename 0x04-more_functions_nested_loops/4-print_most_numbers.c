@@ -1,4 +1,5 @@
 #include "holberton.h"
+#include <stdio.h>
 /**
  * print_most_numbers - check the code for Holberton School students.
  * Return: Always 0.
