@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
  * _puts - printing a string.
  * @str : string
