@@ -1,3 +1,4 @@
+#include "holberton.h"
 /**
  * _strcat - two strings
  * @dest: pointer to the destination string
