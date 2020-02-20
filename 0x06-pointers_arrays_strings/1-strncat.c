@@ -1,3 +1,4 @@
+#include "holberton.h"
 /**
  * _strncat - two strings
  * @dest: pointer

@@ -1,3 +1,4 @@
+#include "holberton.h"
 /**
  * _strncpy - copies a string up to n
  * @dest: Destination
